@@ -12,6 +12,8 @@ git init //Initialize a git repository
 
 git status //Current status
 
+git status //Current status
+
 git add <Filename> //To add new unchecked file in directory
 
 [comment must in present tense]
