@@ -1,0 +1,7 @@
+must config -- one time -- user.name  and user.email
+
+git config --global user.name "arpit jain"
+
+git config --global user.email "arpit_jain2@persistent.com"
+
+git config  --list
