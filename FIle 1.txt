@@ -24,3 +24,5 @@ git config --global core.editor "notepad++"
 git add <pattern>
 git add .  <for everything>
 git add *.py 
+
+git commit -am "some message"
