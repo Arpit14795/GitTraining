@@ -24,7 +24,7 @@ git config --global core.editor "notepad++"
 <head> Changes done on local<head>
 
 <head> CHanges made on remote <head>
-
+<body> For rebase <body>
 git add <pattern>
 git add .  <for everything>
 git add *.py 
