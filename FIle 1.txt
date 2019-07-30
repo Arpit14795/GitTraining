@@ -29,5 +29,6 @@ git add <pattern>
 git add .  <for everything>
 git add *.py 
 
+<h2> git add conflict for rebase <h2>
 git commit -am "some message"
 
