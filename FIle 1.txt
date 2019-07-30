@@ -20,7 +20,7 @@ new change
 git commit -m "req123: file1.txt new First file created"
 
 git config --global core.editor "notepad++"
-
+<head> CHanges made on remote <head>
 git add <pattern>
 git add .  <for everything>
 git add *.py 
