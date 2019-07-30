@@ -6,7 +6,6 @@ git config --global user.email "arpit_jain2@persistent.com"
 
 git config  --list
 
-new change
 
 git init //Initialize a git repository
 
@@ -16,7 +15,8 @@ git status //Current status
 
 git add <Filename> //To add new unchecked file in directory
 
-[comment must in present tense]
+[comment must in present tense
+new change
 git commit -m "req123: file1.txt new First file created"
 
 git config --global core.editor "notepad++"
@@ -26,3 +26,4 @@ git add .  <for everything>
 git add *.py 
 
 git commit -am "some message"
+
